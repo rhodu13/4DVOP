@@ -1,0 +1,14 @@
+flask~=1.1.1
+mongoengine~=0.20.0
+flask_bcrypt
+flask_jwt_extended
+flask_restful
+pip~=20.1
+configparser~=5.0.0
+wheel~=0.33.6
+cryptography~=2.8
+py~=1.8.1
+lxml~=4.4.2
+setuptools~=45.0.0
+PyJWT~=1.7.1
+flask_mail
